@@ -1,0 +1,9 @@
+node_modules/
+package-lock.json
+dist/
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
+.vscode/
+coverage/
+build/
